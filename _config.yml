@@ -106,7 +106,7 @@ author:
   bio              : "Programming Portfolio"
   location         : "Highland, CA"
   email            : "RMoraProgramming@gmail.com"
-  
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -280,8 +280,8 @@ compress_html:
 # Defaults
 defaults:
   # _posts
- - scope:
-      path: ""
+   - scope:
+    path: ""
       type: posts
       values:
       layout: single
