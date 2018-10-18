@@ -107,7 +107,7 @@ author:
   location         : "Highland, CA"
   email            : "RMoraProgramming@gmail.com"
   links:
-    -label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -279,10 +279,10 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
+ - scope:
       path: ""
       type: posts
-    values:
+      values:
       layout: single
       author_profile: true
       read_time: true
@@ -291,10 +291,10 @@ defaults:
       related: true
 
 
- # _pages
- -scope:
+  # _pages
+ - scope:
   path: ""
-  type: pages
-  values:
-  layout: single
-  author_profile: true
+   type: pages
+   values:
+   layout: single
+   author_profile: true
