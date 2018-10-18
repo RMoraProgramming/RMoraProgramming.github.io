@@ -112,7 +112,7 @@ author:
     - label: "GitHub"
       icon: "RMoraProgramming"
       # url: "https://github.com/"
-  
+
 
 # Site Footer
 footer:
@@ -276,4 +276,10 @@ defaults:
       comments: # true
       share: true
       related: true
-
+    #_pages
+- scope:
+  path:
+    type: pages
+    values:
+      layout: single
+      author_profile: true
