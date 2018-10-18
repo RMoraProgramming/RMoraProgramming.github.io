@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Robert John Mora Jr."
+  name             : "Robert John Mora Jr"
   avatar           : "/images/image2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programming Portfolio"
   location         : "Highland, CA"
