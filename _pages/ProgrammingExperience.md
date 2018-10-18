@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /programming-experience/
+permalink: /programmingexp/
 title: "Programming Experience"
 author_profile: true
 header:
