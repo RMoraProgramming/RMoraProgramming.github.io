@@ -1,7 +1,11 @@
 ---
 layout: archive
 perlink: /programmmingexperience/
+<<<<<<< HEAD
 title: "Programming Experience by tags"
+=======
+title: "Programming Experience"
+>>>>>>> 7bdee819fb48993db6dd27df27c083aab1726098
 author_profile: true
 header:
 image: "/images/image1.jpg"
