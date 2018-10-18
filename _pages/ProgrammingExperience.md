@@ -2,7 +2,7 @@
 layout: archive
 perlink: /programmmingexperience/
 title: "Programming Experience"
-author_profile: structured
+author_profile: true
 header:
 image: "/images/image1.jpg"
 ---
