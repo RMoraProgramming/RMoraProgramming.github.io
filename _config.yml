@@ -102,10 +102,11 @@ analytics:
 # Site Author
 author:
   name             : "Robert John Mora Jr"
-  avatar           : "/images/image2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/image3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programming Portfolio"
   location         : "Highland, CA"
   email            : "RMoraProgramming@gmail.com"
+  phone: "(909) 435-8318"
 
   links:
     - label: "Email"
