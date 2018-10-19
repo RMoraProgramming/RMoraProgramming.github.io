@@ -106,7 +106,7 @@ author:
   bio              : "Programming Portfolio"
   location         : "Highland, CA"
   email            : "RMoraProgramming@gmail.com"
-  phone: "(909) 435-8318"
+  phone_number: "(909) 435-8318"
 
   links:
     - label: "Email"
