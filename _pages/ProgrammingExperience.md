@@ -8,4 +8,4 @@ image: "/images/image2.jpeg"
 ---
 This is a connect four game that I coded in C++.
 <https://github.com/RMoraProgramming/connectFour.git>
-![alt text](/images/image2.jpeg)
+![alt text](RMoraProgramming.github.io/images/image2.jpeg)
